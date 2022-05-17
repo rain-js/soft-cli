@@ -8,15 +8,15 @@ const actionsMap = {
     description: 'create project',
     alias: 'cr',
     examples: [
-      'soft-cli create <template-name>',
+      'vue-prj-cli create <template-name>',
     ],
   },
   // config: { // 配置配置文件
   //   description: 'config info',
   //   alias: 'c',
   //   examples: [
-  //     'soft-cli config get <k>',
-  //     'soft-cli config set <k> <v>',
+  //     'vue-prj-cli config get <k>',
+  //     'vue-prj-cli config set <k> <v>',
   //   ],
   // },
   '*': {

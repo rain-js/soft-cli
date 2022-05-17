@@ -1,6 +1,6 @@
 {
-  "name": "soft-cli",
-  "version": "1.0.0",
+  "name": "vue-prj-cli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "eslint src"
   },
   "bin": {
-    "soft-cli": "./bin/www"
+    "vue-prj-cli": "./bin/www"
   },
   "repository": {
     "type": "git",
